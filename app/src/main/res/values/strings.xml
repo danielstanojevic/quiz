@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Question1Text">1. Which of the following is used to implement BFS?</string>
+    <string name="correct">That\'s correct!</string>
+    <string name="incorrect">Sorry, that\s not correct.  Study and try again.</string>
+    <string name="Submit">Submit</string>
+    <string name="Question2Text">2. A DFS doesn\'t necessarily find the shortest path to a node, while breadth-first search does.</string>
+    <string name="Question3Text">3. Which of the following are common sorting algorithms?</string>
+    <string name="TrueText">True</string>
+    <string name="FalseText">False</string>
+    <string name="merge_sort">Merge sort</string>
+    <string name="quick_sort">Quick sort</string>
+    <string name="jump_sort">Jump sort</string>
+    <string name="bubble_sort">Bubble sort</string>
+    <string name="Question4Text">4. A binary tree is a special type of which data structure?</string>
+    <string name="Question4PlaceholderText">Answer here</string>
+    <string name="hashtable">HashTable</string>
+    <string name="queue">Queue</string>
+    <string name="stack">Stack</string>
+    <string name="array">Array</string>
+</resources>
